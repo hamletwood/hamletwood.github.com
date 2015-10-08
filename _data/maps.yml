@@ -1,0 +1,16 @@
+- title: Interactive Map
+  description:
+  url: "https://www.google.com/maps/place/Hamlet+Wood+Scout+Campsite/@51.244044,0.4980473,17z/data=!3m1!4b1!4m2!3m1!1s0x47df316da69e9c8f:0x5fad49e7e4e6a527"
+  icon: map-signs
+- title: How to Reach Hamlet Wood
+  description:
+  url: /documents/maps/howtoreach.pdf
+  icon: file-pdf-o
+- title: Site Map
+  description:
+  url: /documents/maps/sitemap.pdf
+  icon: file-pdf-o
+- title: Site Plan
+  description:
+  url: /documents/maps/siteplan.pdf
+  icon: file-pdf-o

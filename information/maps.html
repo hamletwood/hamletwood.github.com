@@ -1,0 +1,26 @@
+---
+layout: page
+permalink: /information/maps/
+title: Maps
+---
+
+<!-- Posts -->
+<section class="wrapper style1">
+  <div class="container">
+  {% for data in site.data.maps %}
+    {% assign rowfinder = forloop.index | modulo: 2 %}
+    {% if rowfinder == 1 %}
+      <div class="row">
+      {% include formRow.html %}
+    {% elsif rowfinder == 0 %}
+      {% include formRow.html %}
+      </div>
+    {% else %}
+      {% include formRow.html %}
+    {% endif %}
+  {% endfor %}
+  {% if rowfinder != 0 %}
+    </div>
+  {% endif %}
+  </div>
+</section>

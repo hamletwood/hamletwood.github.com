@@ -1,0 +1,67 @@
+<!-- Header -->
+<div id="header">
+
+  <!-- Logo -->
+  <img src="/images/scout_logo.jpg"/><img src="/images/logo.jpg" />
+  <h1><a href="/" id="logo">Hamlet Wood Scout Campsite and Training Centre</a></h1>
+  <!--
+{% for page in site.pages %}
+          {% if page.title %}
+          <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+          {% endif %}
+        {% endfor %}
+  -->
+
+  <!-- Nav -->
+  <nav id="nav">
+    <ul>
+      <li {% if page.url == '/index.html' %}class="current"{% endif %}><a href="/">Home</a></li>
+      <li {% if page.url contains '/site' %}class="current"{% endif %}>
+        <a href="/site">Site</a>
+        <ul>
+          <li><a href="/site">Site Details</a></li>
+          <li><a href="/site/training">Training</a></li>
+          <li><a href="/site/history">History</a></li>
+          <li><a href="/site/team">The Team</a></li>
+          <li><a href="/site/woodland-management">Woodland Management</a></li>
+        </ul>
+      </li>
+      <li {% if page.url contains '/facilities' %}class="current"{% endif %}>
+        <a href="/facilities/camping">Facilities</a>
+        <ul>
+          <li><a href="/facilities/camping">Camping</a></li>
+          <li><a href="/facilities/kltc">KLTC</a></li>
+          <li><a href="/facilities/vhq">VHQ</a></li>
+          <li><a href="/facilities/campfire">Campfire</a></li>
+          <li><a href="/facilities/climbing-tower">Climbing Tower</a></li>
+          <li><a href="/facilities/pioneering-field">Pioneering Field</a></li>
+          <li><a href="/facilities/chapel">Chapel</a></li>
+          <li><a href="/facilities/shop">Shop</a></li>
+        </ul>
+      </li>
+      <li {% if page.url contains '/activities' %}class="current"{% endif %}>
+        <a href="/activities/pioneering">Activities</a>
+        <ul>
+          <li><a href="/activities/pioneering">Pioneering</a></li>
+          <li><a href="/activities/climbing">Climbing &amp; Abseiling</a></li>
+          <li><a href="/activities/nature-trail">Nature Trail</a></li>
+          <li><a href="/activities/orienteering">Orienteering</a></li>
+          <li><a href="/activities/hiking">Hiking</a></li>
+          <li><a href="/activities/water-activities">Water Activities</a></li>
+          <li><a href="/activities/talks-and-demonstrations">Talks &amp; Demonstrations</a></li>
+          <li><a href="/activities/places-of-interest">Places of Interest</a></li>
+        </ul>
+      </li>
+      <li {% if page.url == '/information/pricing/' %}class="current"{% endif %}><a href="/information/pricing">Pricing</a></li>
+      <li {% if page.url contains '/information' and page.url != '/information/pricing/' %}class="current"{% endif %}>
+        <a href="/information/forms">Information</a>
+        <ul>
+          <li><a href="/information/forms">Forms</a></li>
+          <li><a href="/information/maps">Maps</a></li>
+          <li><a href="/information/pricing">Pricing</a></li>
+          <li><a href="/information/general-information">General Information</a></li>
+        </ul>
+      </li>
+    </ul>
+  </nav>
+</div>
