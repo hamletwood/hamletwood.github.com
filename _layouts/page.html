@@ -12,7 +12,9 @@ layout: default
 
         <h2>{{ page.title }}</h2>
 
-        <span class="image featured"><img src="/images/{{ page.image }}" alt="" /></span>
+        {% if page.image %}
+          <span class="image featured"><img src="/images/{{ page.image }}" alt="" /></span>
+        {% endif %}
 
         {{ content }}
       </article>
