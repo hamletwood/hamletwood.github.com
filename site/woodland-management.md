@@ -3,6 +3,7 @@ layout: page
 permalink: /site/woodland-management/
 image: banner1.jpg
 title: Woodland Management
+redirect_from: "/woodland-management.php"
 ---
 
 As part of the Scout's centenary celebrations, the Woodland Trust and the Scout Association formed a partnership to provide members of the Scout movement with a number of opportunities to learn about, and engage in, woodland conservation

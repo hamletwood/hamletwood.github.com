@@ -3,6 +3,7 @@ layout: page
 permalink: /activities/places-of-interest/
 image: bannertrees7.jpg
 title: Places of Interest
+redirect_from: "/places-of-interest.php"
 ---
 
 ### Medway

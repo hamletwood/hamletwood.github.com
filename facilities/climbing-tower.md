@@ -3,6 +3,7 @@ layout: page
 permalink: /facilities/climbing-tower/
 image: bannerclimbing.jpg
 title: Climbing Tower
+redirect_from: "/climbing-tower.php"
 ---
 
 A 30 foot (9 metre) high Climbing and abseil Tower can be hired with, or without equipment. You will need to provide your own qualified instructors.

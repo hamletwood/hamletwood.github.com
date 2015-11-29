@@ -3,6 +3,7 @@ layout: page
 permalink: /site/team/
 image: bannerkltc.jpg
 title: The Team
+redirect_from: "/team.php"
 ---
 
 Hamlet Wood is staffed completely by volunteers who perform most of the maintenance and minor improvements on the site, the Service Team work at the site every Monday, apart from bank holidays.

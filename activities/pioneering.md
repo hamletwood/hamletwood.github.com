@@ -3,6 +3,7 @@ layout: page
 permalink: /activities/pioneering/
 image: bannerpioneering.jpg
 title: Pioneering
+redirect_from: "/pioneering.php"
 ---
 
 Hamlet Wood has a special field set aside purely for pioneering activities and also hires out Pioneering Project Kits which come with all equipment, poles and instructions required.

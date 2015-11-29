@@ -3,6 +3,7 @@ layout: page
 permalink: /facilities/shop/
 image: bannertrees5.jpg
 title: Shop
+redirect_from: "/shop.php"
 ---
 
 

@@ -3,6 +3,7 @@ layout: page
 permalink: /site/history/
 image: bannertrees2.jpg
 title: A History of Vision & Faith 1959 – 2000
+redirect_from: "/history.php"
 ---
 
 ### Written by Charles Dunk, First warden 1961 – 1972

@@ -4,7 +4,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <title>{% if page.title %}{{ site.title }} | {{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
-  <meta name="description" content="{% if page.content %}{{ page.content | strip_html | strip_newlines | truncatewords: 20 }}{% else %}{{ site.description }}{% endif %}">
+  <meta name="description" content="{% if page.use_site_description %}{{site.description}}{% else if page.content %}{{ page.content | strip_html | strip_newlines | truncatewords: 20 }}{% else %}{{ site.description }}{% endif %}">
 
   <!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
   <link rel="stylesheet" href="/css/main.css" />

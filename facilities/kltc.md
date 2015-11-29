@@ -3,6 +3,7 @@ layout: page
 permalink: /facilities/kltc/
 image: bannerkltc.jpg
 title: Kenneth Loveland Training Centre (KLTC)
+redirect_from: "/kltc.php"
 ---
 
 The Kenneth Loveland building is available for hire for courses and conferences, Pack Holidays and as winter sleeping quarters. The building is also available for hire to Groups wishing to use their facilities whilst camping.

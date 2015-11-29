@@ -2,11 +2,13 @@
 layout: page
 permalink: /information/forms/
 title: Forms
+use_site_description: true
 ---
 
 <!-- Posts -->
 <section class="wrapper style1">
   <div class="container">
+
   {% for data in site.data.forms %}
     {% assign rowfinder = forloop.index | modulo: 2 %}
     {% if rowfinder == 1 %}
