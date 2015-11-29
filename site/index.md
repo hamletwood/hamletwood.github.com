@@ -2,6 +2,7 @@
 layout: page
 image: bannertent.jpg
 title: The Site
+redirect_from: "/site-details.php"
 ---
 
 Hamlet Wood is situated on high ground only 2.5 miles south of Maidstone. The 27 acres of coppiced woodland consists mainly of chestnut and birch, with a mixture of many other varieties of trees.

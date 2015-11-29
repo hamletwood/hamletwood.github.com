@@ -3,6 +3,7 @@ layout: page
 permalink: /facilities/camping/
 image: bannertent.jpg
 title: Camping Grounds
+redirect_from: "/camping.php"
 ---
 
 ### The Glade
