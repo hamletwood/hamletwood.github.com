@@ -17,6 +17,38 @@
 
 	$(function() {
 
+		var $contactForm = $('#contact-form');
+
+		function clear() {
+			$('.alert', $contactForm).remove();
+		}
+
+		$contactForm.submit(function(e) {
+			e.preventDefault();
+			clear();
+			$.ajax({
+				url: '//formspree.io/dan@nimblea.pe',
+				method: 'POST',
+				data: $(this).serialize(),
+				dataType: 'json',
+				beforeSend: function() {
+					$contactForm.append('<div class="alert alert--loading">Sending message…</div>');
+					setTimeout(clear, 5000);
+				},
+				success: function(data) {
+					$contactForm.find('.alert--loading').hide();
+					$contactForm.append('<div class="alert alert--success">Message sent!</div>');
+					$('textarea, input[type=text], input[type=email]', $contactForm).val('');
+					setTimeout(clear, 5000);
+				},
+				error: function(err) {
+					$contactForm.find('.alert--loading').hide();
+					$contactForm.append('<div class="alert alert--error">Ops, there was an error.</div>');
+					setTimeout(clear, 5000);
+				}
+			});
+		});
+
 		var	$window = $(window),
 			$body = $('body');
 
