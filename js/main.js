@@ -27,7 +27,7 @@
 			e.preventDefault();
 			clear();
 			$.ajax({
-				url: '//formspree.io/dan@nimblea.pe',
+				url: '//formspree.io/warden@hamletwood.org.uk',
 				method: 'POST',
 				data: $(this).serialize(),
 				dataType: 'json',
