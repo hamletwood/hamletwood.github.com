@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /activities/nature-trail/
-image: bannertrees5.jpg
+image: naturetrail.jpg
 title: Nature Trail
 redirect_from: "/nature-trail.php"
 ---

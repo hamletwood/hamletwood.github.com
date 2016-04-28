@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /facilities/campfire/
-image: campfire.jpg
+image: bannercampfire.jpg
 title: Campfire
 redirect_from: "/campfire-circles.php"
 ---

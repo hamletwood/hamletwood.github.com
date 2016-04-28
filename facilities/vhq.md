@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /facilities/vhq/
-image: bannervhq.jpg
+image: vhq.jpg
 title: The Vanstone Headquarters Building (VHQ)
 ---
 

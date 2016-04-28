@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /site/history/
-image: bannertrees2.jpg
+image: queen40.jpg
 title: A History of Vision & Faith 1959 – 2000
 redirect_from: "/history.php"
 ---

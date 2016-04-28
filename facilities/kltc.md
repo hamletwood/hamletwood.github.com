@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /facilities/kltc/
-image: bannerkltc.jpg
+image: kltc.jpg
 title: Kenneth Loveland Training Centre (KLTC)
 redirect_from: "/kltc.php"
 ---
