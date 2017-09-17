@@ -1,11 +1,3 @@
-- title: Scout &amp; Guide 2016
-  description:
-  url: /documents/prices/s&g2016.pdf
-  icon: file-pdf-o
-- title: Non Scout &amp; Guide 2016
-  description:
-  url: /documents/prices/nons&g2016.pdf
-  icon: file-pdf-o
 - title: Scout &amp; Guide 2017
   description:
   url: /documents/prices/s&g2017.pdf
@@ -13,6 +5,22 @@
 - title: Non Scout &amp; Guide 2017
   description:
   url: /documents/prices/nons&g2017.pdf
+  icon: file-pdf-o
+- title: Maidstone Scouts 2017
+  description:
+  url: '#maidstoneScouts'
+  icon: file-pdf-o
+- title: Scout &amp; Guide 2018
+  description:
+  url: /documents/prices/s&g2018.pdf
+  icon: file-pdf-o
+- title: Non Scout &amp; Guide 2018
+  description:
+  url: /documents/prices/nons&g2018.pdf
+  icon: file-pdf-o
+- title: Maidstone Scouts 2018
+  description:
+  url: '#maidstoneScouts'
   icon: file-pdf-o
 - title: Declaration for Non-Scout and Guides
   description:

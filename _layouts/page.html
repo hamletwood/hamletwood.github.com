@@ -18,6 +18,22 @@ layout: default
 
         {{ content }}
       </article>
+
+      {% for data in page.files %}
+        {% assign rowfinder = forloop.index | modulo: 2 %}
+        {% if rowfinder == 1 %}
+          <div class="row">
+          {% include formRow.html %}
+        {% elsif rowfinder == 0 %}
+          {% include formRow.html %}
+          </div>
+        {% else %}
+          {% include formRow.html %}
+        {% endif %}
+      {% endfor %}
+      {% if rowfinder != 0 %}
+        </div>
+      {% endif %}
     </div>
   </div>
 </section>

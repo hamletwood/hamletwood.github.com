@@ -9,5 +9,5 @@ url: "http://www.hamletwood.org.uk" # the base hostname & protocol for your site
 # Build settings
 markdown: kramdown
 
-gems:
+plugins:
   - jekyll-redirect-from
