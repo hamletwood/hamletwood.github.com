@@ -11,7 +11,7 @@ redirect_from: "/shop.php"
 A small camp shop sells badges, woggles and other camping articles. The shop does not sell sweets or other food items. Opening hours by arrangement with the Warden.
 
 <picture class="secondaryImage">
-    <source type="image/webp" srcset="/images/shopwoggles.webp">
-    <source type="image/jpeg" srcset="/images/shopwoggles.jpg">
-    <img src="/images/shopwoggles.jpg" />
+    <source type="image/webp" srcset="/images/shopwoggles.webp" alt="Woggles">
+    <source type="image/jpeg" srcset="/images/shopwoggles.jpg" alt="Woggles">
+    <img src="/images/shopwoggles.jpg" alt="Woggles">
 </picture>

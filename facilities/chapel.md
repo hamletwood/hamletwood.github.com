@@ -11,8 +11,8 @@ The Open Air Chapel opening ceremony was held on 7th May 2000. The chapel was co
 The chapel is available for use by all campers, but if you require a particular time for a service, it would be as well to book with the Warden.
 
 <picture class="secondaryImage">
-    <source type="image/webp" srcset="/images/chapeldoors.webp">
-    <source type="image/jpeg" srcset="/images/chapeldoors.jpg">
-    <img src="/images/chapeldoors.jpg" />
+    <source type="image/webp" srcset="/images/chapeldoors.webp" alt="The Chapel Doors">
+    <source type="image/jpeg" srcset="/images/chapeldoors.jpg" alt="The Chapel Doors">
+    <img src="/images/chapeldoors.jpg" alt="The Chapel Doors">
 </picture>
 
