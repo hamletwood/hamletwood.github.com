@@ -1,12 +1,4 @@
-- title: Scout &amp; Guide 2017
-  description:
-  url: /documents/prices/s&g2017.pdf
-  icon: file-pdf-o
-- title: Non Scout &amp; Guide 2017
-  description:
-  url: /documents/prices/nons&g2017.pdf
-  icon: file-pdf-o
-- title: Maidstone Scouts 2017
+- title: Maidstone Scouts 2018
   description:
   url: '#maidstoneScouts'
   icon: file-pdf-o
@@ -18,9 +10,17 @@
   description:
   url: /documents/prices/nons&g2018.pdf
   icon: file-pdf-o
-- title: Maidstone Scouts 2018
+- title: Maidstone Scouts 2019
   description:
   url: '#maidstoneScouts'
+  icon: file-pdf-o
+- title: Scout &amp; Guide 2019
+  description:
+  url: /documents/prices/s&g2019.pdf
+  icon: file-pdf-o
+- title: Voluntary Youth Organisations and Schools 2019
+  description:
+  url: /documents/prices/nons&g2019.pdf
   icon: file-pdf-o
 - title: Declaration for Non-Scout and Guides
   description:
