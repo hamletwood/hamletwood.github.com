@@ -10,7 +10,7 @@ redirect_from: "/places-of-interest.php"
 
 * Chatham Historic Dockyard
 * Fort Amhurst
-* Ice Scating
+* Ice Skating
 * Digger Land
 
 ### Maidstone

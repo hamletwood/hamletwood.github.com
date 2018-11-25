@@ -24,4 +24,4 @@ Camping area big enough for most camps with a flagpole and four permanent camp k
 
 ![Cobtree field](/images/cobtreefield.jpg)
 
-Marquee / Mess Tent areas have been created in the woodland adjacent to sites A1 and A6 plus the two Camping Fields. They have all been laid with up to two inches of wood chips and by using these ares campers will free up the camping areas and prevent too much wear and mud in times of bad weather.
+Marquee / Mess Tent areas have been created in the woodland adjacent to sites A1 and A6 plus the two Camping Fields. They have all been laid with up to two inches of wood chips and by using these areas campers will free up the camping areas and prevent too much wear and mud in times of bad weather.
