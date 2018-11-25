@@ -2,6 +2,7 @@
 layout: page
 permalink: /information/maidstone-district/
 image: banner2.jpg
+webpImage: banner2.webp
 title: Maidstone District Pricing
 redirect_from: "/maidstone-district.php"
 ---

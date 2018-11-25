@@ -2,6 +2,7 @@
 layout: page
 permalink: /facilities/chapel/
 image: chapel.jpg
+webpImage: chapel.webp
 title: Chapel
 ---
 
@@ -9,4 +10,9 @@ The Open Air Chapel opening ceremony was held on 7th May 2000. The chapel was co
 
 The chapel is available for use by all campers, but if you require a particular time for a service, it would be as well to book with the Warden.
 
-![Hamlet Wood Chapel Doors](/images/chapeldoors.jpg)
+<picture class="secondaryImage">
+    <source type="image/webp" srcset="/images/chapeldoors.webp">
+    <source type="image/jpeg" srcset="/images/chapeldoors.jpg">
+    <img src="/images/chapeldoors.jpg" />
+</picture>
+

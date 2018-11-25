@@ -2,6 +2,7 @@
 layout: page
 permalink: /activities/places-of-interest/
 image: bannertrees7.jpg
+webpImage: bannertrees7.webp
 title: Places of Interest
 redirect_from: "/places-of-interest.php"
 ---

@@ -2,6 +2,7 @@
 layout: page
 permalink: /activities/climbing/
 image: bannerclimbing.jpg
+webpImage: bannerclimbing.webp
 title: Climbing & Abseiling
 redirect_from: "/climbing.php"
 ---

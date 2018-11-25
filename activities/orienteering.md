@@ -2,6 +2,7 @@
 layout: page
 permalink: /activities/orienteering/
 image: bannertrees6.jpg
+webpImage: bannertrees6.webp
 title: Orienteering
 redirect_from: "/orienteering.php"
 ---

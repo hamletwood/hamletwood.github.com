@@ -2,6 +2,7 @@
 layout: page
 permalink: /facilities/pioneering-field/
 image: bannerpioneering.jpg
+webpImage: bannerpioneering.webp
 title: Pioneering Field
 redirect_from: "/pioneering-field.php"
 ---

@@ -2,6 +2,7 @@
 layout: page
 permalink: /activities/talks-and-demonstrations/
 image: bannertrees8.jpg
+webpImage: bannertrees8.webp
 title: Talks and Demonstrations
 ---
 
@@ -16,5 +17,3 @@ By prior arrangement, talks on the local wildlife and nature in the woodland can
 ### Leathercraft
 
 By prior arrangement, you can make your own leather woggle or key ring, perhaps stamp your belt. Use one of the many metal stamps or use the sets of letters we have available. This is like branding, but safer, without heat.
-
-<craft-coppice form>

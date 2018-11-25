@@ -2,6 +2,7 @@
 layout: page
 permalink: /information/photography/
 image: banner2.jpg
+webpImage: banner2.webp
 title: Photography at Hamlet Wood
 files:
   - title: Group Photo Consent

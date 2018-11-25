@@ -2,6 +2,7 @@
 layout: page
 permalink: /facilities/campfire/
 image: bannercampfire.jpg
+webpImage: bannercampfire.webp
 title: Campfire
 redirect_from: "/campfire-circles.php"
 ---

@@ -2,8 +2,19 @@
 <div id="header">
 
   <!-- Logo -->
-  <img src="/images/Scouts_Logo_Stack_Purple.png"/><img src="/images/logo.jpg" />
-  <h1><a href="/" id="logo">Hamlet Wood Scout Campsite and Training Centre</a></h1>
+  <picture>
+    <source type="image/webp" srcset="/images/Scouts_Logo_Stack_Purple.webp" >
+    <source type="image/png" srcset="/images/Scouts_Logo_Stack_Purple.png">
+    <img src="/images/Scouts_Logo_Stack_Purple.png"/>
+  </picture>
+
+  <picture>
+    <source type="image/webp" srcset="/images/logo.webp">
+    <source type="image/jpeg" srcset="/images/logo.jpg">
+    <img src="/images/logo.jpg" />
+  </picture>
+
+    <h1><a href="/" id="logo">Hamlet Wood Scout Campsite and Training Centre</a></h1>
   <!--
 {% for page in site.pages %}
           {% if page.title %}

@@ -2,6 +2,7 @@
 layout: page
 permalink: /site/team/
 image: bannerkltc.jpg
+webpImage: bannerkltc.webp
 title: The Team
 redirect_from: "/team.php"
 ---

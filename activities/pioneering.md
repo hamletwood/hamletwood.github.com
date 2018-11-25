@@ -2,6 +2,7 @@
 layout: page
 permalink: /activities/pioneering/
 image: bannerpioneering.jpg
+webpImage: bannerpioneering.webp
 title: Pioneering
 redirect_from: "/pioneering.php"
 ---

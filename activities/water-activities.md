@@ -2,6 +2,7 @@
 layout: page
 permalink: /activities/water-activities/
 image: bannerflower.jpg
+webpImage: bannerflower.webp
 title: Water Activities
 ---
 

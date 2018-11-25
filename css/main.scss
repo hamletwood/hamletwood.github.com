@@ -307,10 +307,15 @@
 				display: block;
 				width: 100%;
 			}
+
+			picture {
+				display: block;
+				width: 100%;
+			}
 		}
 	}
 
-	#content article p img {
+	#content article picture.secondaryImage img, #content article picture.secondaryImage source {
 		margin: 0 auto;
 		display: block;
 		width: 80%;

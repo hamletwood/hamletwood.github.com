@@ -13,7 +13,13 @@ layout: default
         <h2>{{ page.title }}</h2>
 
         {% if page.image %}
-          <span class="image featured"><img src="/images/{{ page.image }}" alt="" /></span>
+          <span class="image featured">
+            <picture>
+                <source type="image/webp" srcset="/images/{{ page.webpImage }}" >
+                <source type="image/jpeg" srcset="/images/{{ page.image }}">
+                <img src="/images/{{ page.image }}" alt="" />
+            </picture>
+          </span>
         {% endif %}
 
         {{ content }}

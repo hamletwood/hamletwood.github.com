@@ -2,6 +2,7 @@
 layout: page
 permalink: /site/training/
 image: bannertrees3.jpg
+webpImage: bannertrees3.webp
 title: Training
 ---
 

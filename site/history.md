@@ -2,6 +2,7 @@
 layout: page
 permalink: /site/history/
 image: queen40.jpg
+webpImage: queen40.webp
 title: A History of Vision & Faith 1959 – 2000
 redirect_from: "/history.php"
 ---

@@ -1,6 +1,7 @@
 ---
 layout: page
 image: scoutflagflying.jpg
+webpImage: scoutflagflying.webp
 title: The Site
 redirect_from: "/site-details.php"
 ---
@@ -11,4 +12,8 @@ The main camping is in separate clearings around a central activity field known 
 
 Two buildings on site are available for hire for courses and conferences, for Pack holidays and Beaver sleepovers and as winter sleeping quarters and to Groups wishing to use their facilities whilst camping.
 
-![Hamlet Wood Logs](/images/sitelogsfire.jpg)
+<picture class="secondaryImage">
+    <source type="image/webp" srcset="/images/sitelogsfire.webp" >
+    <source type="image/jpeg" srcset="/images/sitelogsfire.jpg">
+    <img src="/images/sitelogsfire.jpg"/>
+</picture>

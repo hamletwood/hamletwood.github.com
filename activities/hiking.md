@@ -2,6 +2,7 @@
 layout: page
 permalink: /activities/hiking/
 image: bannertrees3.jpg
+webpImage: bannertrees3.webp
 title: Hiking
 redirect_from: "/hiking.php"
 ---
